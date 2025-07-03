@@ -1,7 +1,3 @@
-Here's your **enhanced `README.md`** with everything — badges, tech stack, screenshots section, and a demo GIF placeholder:
-
----
-
 ### ✅ `README.md`
 
 
