@@ -158,15 +158,3 @@ Feel free to use, modify, and distribute as needed.
 
 ````
 
----
-
-### ✅ Next Steps:
-- Save this as `README.md` at the root of your project
-- Create a folder `screenshots/` and add your images (`upload.png`, `github.png`, `demo.gif`) there
-- Commit and push:
-
-```bash
-git add README.md screenshots/
-git commit -m "Add README and screenshots"
-git push
-````
